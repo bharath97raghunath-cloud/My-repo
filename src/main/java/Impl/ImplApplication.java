@@ -9,6 +9,7 @@ public class ImplApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ImplApplication.class, args);
         System.out.println("HI");
+        System.out.println("Hello");
 	}
     
 
