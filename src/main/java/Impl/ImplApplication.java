@@ -10,6 +10,7 @@ public class ImplApplication {
 		SpringApplication.run(ImplApplication.class, args);
         System.out.println("HI");
         System.out.println("Hello");
+        System.out.println("Bye");
 	}
     
 
